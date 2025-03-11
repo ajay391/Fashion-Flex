@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Effortless Style: Building a Minimalist Wardrobe",
+    "subtitle": "Timeless Fashion",
+    "date": "12th August 2022",
+    "imageUrl": "https://i.pinimg.com/736x/16/ea/40/16ea40729954d9f7955c0aa18b5311a7.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Beachwear Must-Haves for the Ultimate Summer Look",
+    "subtitle": "Sun-Kissed Trends",
+    "date": "18th January 2023",
+    "imageUrl": "https://i.pinimg.com/736x/26/d7/c7/26d7c7c37a815afcee7e2d25f952c6cb.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Power Suits & Confidence: The Modern Woman's Guide",
+    "subtitle": "Boss Mode On",
+    "date": "5th January 2025",
+    "imageUrl": "https://i.pinimg.com/736x/24/06/dd/2406dd325a22f4bcb6bb0ceaef7c91ea.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Global Fashion Week 2025: Trends That Stole the Show",
+    "subtitle": "The Runway Report",
+    "date": "25th May 2025",
+    "imageUrl": "https://i.pinimg.com/736x/6d/85/68/6d8568ec3563d9a3e1f07481fee72755.jpg"
+  }
+  
+  ]
+  

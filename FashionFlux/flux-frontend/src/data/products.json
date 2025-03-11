@@ -1,0 +1,107 @@
+[
+  {
+    "_id": 1,
+    "name": "Aero Frost Hoodie",
+    "category": "hoodies",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "image": "https://i.pinimg.com/736x/0b/33/8a/0b338a1685a9f1e471505154281ac20e.jpg",
+    "color": "black",
+    "rating": 3.5
+  },
+  {
+    "_id": 2,
+    "name": "Graphite Drift T-shirt",
+    "category": "tshirts",
+    "description": "Elegant evening gown for special occasions.",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "image": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "red",
+    "rating": 4.0
+  },
+  {
+    "_id": 3,
+    "name": "Neon Pulse T-shirt",
+    "category": "tshirts",
+    "description": "Exquisite gold necklace with intricate design.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "_id": 4,
+    "name": "Retro Haze Tee",
+    "category": "tshirts",
+    "description": "Long-lasting matte lipstick in various shades.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1622445272461-c6580cab8755?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "red",
+    "rating": 2.2
+  },
+  {
+    "_id": 5,
+    "name": "Ember Trail Hoodie",
+    "category": "hoodies",
+    "description": "Luxurious silk scarf with vibrant colors.",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "https://i.pinimg.com/736x/b7/bf/af/b7bfafa068070d4627f5c39d9ef4c342.jpg",
+    "color": "blue",
+    "rating": 4.3
+  },
+  {
+    "_id": 6,
+    "name": "Gravity Flow Oversized",
+    "category": "oversized_tshirts",
+    "description": "Chic cocktail dress for parties and events.",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/736x/6a/e8/83/6ae8839d624f50868ae358b91b015340.jpg",
+    "color": "black",
+    "rating": 4.4
+  },
+  {
+    "_id": 7,
+    "name": "Echo Core Oversized Tee",
+    "category": "oversized_tshirts",
+    "description": "Sparkling diamond earrings that add elegance to any outfit.",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "https://i.pinimg.com/736x/76/8c/75/768c75d88762e595d1633bf7f17b0fe3.jpg",
+    "color": "silver",
+    "rating": 4.8
+  },
+  {
+    "_id": 8,
+    "name": "Wave Rider Oversized",
+    "category": "oversized_tshirts",
+    "description": "High-coverage foundation for a flawless finish.",
+    "price": 39.99,
+    "image": "https://i.pinimg.com/736x/1d/30/18/1d3018fa042560e16049850c6429feb4.jpg",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "_id": 9,
+    "name": "Vortex Stretch Denim",
+    "category": "jeans",
+    "description": "Trendy sunglasses with UV protection.",
+    "price": 49.99,
+    "image": "https://i.pinimg.com/736x/93/d5/c4/93d5c498f9800930a8012a4a53bdbaec.jpg",
+    "color": "black",
+    "rating": 4.6
+  },
+  {
+    "_id": 10,
+    "name": "Hyper Drift Oversized Tee",
+    "category": "oversized_tshirts",
+    "description": "Comfortable maxi dress for casual outings.",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "image": "https://i.pinimg.com/736x/3e/bb/51/3ebb513183bf7fa98da81e9f3dfe1bd7.jpg",
+    "color": "green",
+    "rating": 4.2
+  }
+]
